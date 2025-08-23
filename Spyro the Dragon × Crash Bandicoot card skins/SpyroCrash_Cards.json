@@ -1,0 +1,16 @@
+{
+    "id": "spyro_crash",
+    "name": "Spyro the Dragon × Crash Bandicoot",
+    "author": ["DZ-Aladan"],
+    "description": "Playing cards featuring characters from Spyro the Dragon and Crash Bandicoot",
+    "prefix": "spyrocrash",
+    "main_file": "main.lua",
+    "priority": -100,
+    "badge_colour": "ca5bc7",
+    "badge_text_colour": "FFFFFF",
+    "display_name": "Spyro the Dragon × Crash Bandicoot",
+    "version": "1.0",
+    "dependencies": [
+        "Steamodded (>=1.0.0~ALPHA-1404b)"
+    ]
+}
