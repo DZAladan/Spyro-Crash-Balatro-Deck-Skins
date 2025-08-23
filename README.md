@@ -1,11 +1,13 @@
-# Baltro Spyro the Dragon × Crash Bandicoot Unofficial Deck Skins
-Playing cards featuring characters from Spyro the Dragon and Crash Bandicoot
+<h1 align="center"> Baltro Spyro the Dragon × Crash Bandicoot Unofficial Deck Skins </h1>
+<p align="center"></è>Playing cards featuring characters from Spyro the Dragon and Crash Bandicoot </p>
+<img src="https://github.com/DZAladan/Spyro-Crash-Balatro-Deck-Skins/raw/main/extras/spyrocrash_balatromod_presentation_1.png">
 
 ## Special thanks
 - [CarrotonMan](https://github.com/CarrotonMan) for the patience and making the files of their [Balatro Dark Mode](https://github.com/CarrotonMan/balatrodarkmode) mod available (I ended up not using them, but still)
-- Flowire and SeSebasti for the guides
+- Flowire and SeSebasti for the guides and template files
 
 ## Features
+<img src="https://github.com/DZAladan/Spyro-Crash-Balatro-Deck-Skins/raw/main/extras/spyrocrash_balatromod_presentation_2.png">
 - Low and high contrast colors
 - High contrast suits (face cards keep the low contrast colors, while the suits are high contrast)
 - Choose between Elora or Bianca as the Queen of Diamonds
@@ -18,3 +20,6 @@ Playing cards featuring characters from Spyro the Dragon and Crash Bandicoot
 2. Install [Steamodded](https://github.com/Steamodded/smods/) following [this guide][(https://github.com/Steamodded/smods/wiki/Installing-Steamodded-windows];
 3. Download the latest .zip file from the Releases;
 4. Open it with a software like 7-Zip, then drag and drop the folder inside the %AppData/Balatro/Mods folder.
+
+## To-Do
+- Find out how the heck localization files work, and implement localization for the textures menu.
