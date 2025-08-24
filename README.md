@@ -18,7 +18,7 @@
   <sup>ℹ️ This step is optional, but will allow you to keep a vanilla version of the game just in case you may need it.</sup>
 2. Install [Lovely](https://github.com/ethangreen-dev/lovely-injector) following the guides below:<br>
   ➡️ [For Windows, Proton and Wine](https://github.com/ethangreen-dev/lovely-injector?tab=readme-ov-file#windows--proton--wine)<br>
-  ➡️ [For Mac](https://github.com/ethangreen-dev/lovely-injector?tab=readme-ov-file#windows--proton--wine)
+  ➡️ [For Mac](https://github.com/ethangreen-dev/lovely-injector?tab=readme-ov-file#mac)
 3. Install [Steamodded](https://github.com/Steamodded/smods/) following [this guide](https://github.com/Steamodded/smods/wiki/Installing-Steamodded-windows);
 4. Download the latest .zip file from the Releases;
 5. Open it with a software like 7-Zip, then drag and drop the folder inside the %AppData/Balatro/Mods folder.
