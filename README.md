@@ -14,12 +14,14 @@
 - Custom colors and aces, named "N. Sane" (for Crash Bandicoot) and "Reignited" (for Spyro the Dragon)
 
 ## Installation
-1. Install [Lovely](https://github.com/ethangreen-dev/lovely-injector) following the guides below:
+1. Make a copy of the original "balatro.exe" and rename it "balatro_unmooded.exe";
+  ℹ️ This step is optional, but will allow you to keep a vanilla version of the game just in case you may need it.
+2. Install [Lovely](https://github.com/ethangreen-dev/lovely-injector) following the guides below:
   - [For Windows, Proton and Wine](https://github.com/ethangreen-dev/lovely-injector?tab=readme-ov-file#windows--proton--wine)
   - [For Mac](https://github.com/ethangreen-dev/lovely-injector?tab=readme-ov-file#windows--proton--wine)
-2. Install [Steamodded](https://github.com/Steamodded/smods/) following [this guide][(https://github.com/Steamodded/smods/wiki/Installing-Steamodded-windows];
-3. Download the latest .zip file from the Releases;
-4. Open it with a software like 7-Zip, then drag and drop the folder inside the %AppData/Balatro/Mods folder.
+3. Install [Steamodded](https://github.com/Steamodded/smods/) following [this guide][(https://github.com/Steamodded/smods/wiki/Installing-Steamodded-windows];
+4. Download the latest .zip file from the Releases;
+5. Open it with a software like 7-Zip, then drag and drop the folder inside the %AppData/Balatro/Mods folder.
 
 ## To-Do
 - Find out how the heck localization files work, and implement localization for the textures menu.
