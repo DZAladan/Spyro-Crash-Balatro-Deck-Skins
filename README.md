@@ -1,4 +1,4 @@
-<h1 align="center"> Baltro Spyro the Dragon × Crash Bandicoot Unofficial Deck Skins </h1>
+<h1 align="center"> Balatro Spyro the Dragon × Crash Bandicoot Unofficial Deck Skins </h1>
 <p align="center"></è>Playing cards featuring characters from Spyro the Dragon and Crash Bandicoot </p>
 <img src="https://github.com/DZAladan/Spyro-Crash-Balatro-Deck-Skins/raw/main/extras/spyrocrash_balatromod_presentation_1.png">
 
