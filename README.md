@@ -11,7 +11,8 @@
   🟣 Low and high contrast colors<br>
   🟣 High contrast suits (face cards keep the low contrast colors, while the suits are high contrast)<br>
   🟣 Choose between Elora or Bianca as the Queen of Diamonds<br>
-  🟣 Custom colors and aces, named "N. Sane" (for Crash Bandicoot) and "Reignited" (for Spyro the Dragon)
+  🟣 Custom colors and aces, named "N. Sane" (for Crash Bandicoot) and "Reignited" (for Spyro the Dragon)<br>
+  🟣 Support for English and Italian languages (so far)
 
 ## Installation
 1. Make a copy of the original "balatro.exe" and rename it "balatro_unmodded.exe";<br>
@@ -21,8 +22,9 @@
   ➡️ [For Mac](https://github.com/ethangreen-dev/lovely-injector?tab=readme-ov-file#mac)
 3. Install [Steamodded](https://github.com/Steamodded/smods/) following [this guide](https://github.com/Steamodded/smods/wiki/Installing-Steamodded-windows);
 4. Download the latest .zip file from the Releases;
-5. Open it with a software like 7-Zip, then drag and drop the folder inside the %AppData/Balatro/Mods folder.
+5. Open it with a software like 7-Zip, then drag and drop the folder inside the %AppData&/Balatro/Mods folder.
 
 ## To-Do
 🔲 Find out how the heck localization files work, and implement localization for the textures menu;<br>
+  <sup>No, this isn't done yet. The solution I adopted so far is temporary.</sup><br>
 🔲 Add support for Dark Mode by making extra skins available when the mod is detected.
