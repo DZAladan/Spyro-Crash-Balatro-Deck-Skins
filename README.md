@@ -13,7 +13,8 @@
   🟣 Choose between Elora or Bianca as the Queen of Diamonds<br>
   🟣 Custom colors and aces, named "N. Sane" (for Crash Bandicoot) and "Reignited" (for Spyro the Dragon)<br>
   🟣 Support for English and Italian languages (so far)<br>
-  🟣 🆕 Support for [CarrotonMan](https://github.com/CarrotonMan)'s [Balatro Dark Mode](https://github.com/CarrotonMan/balatrodarkmode) (skins will appear when the mod is installed and active)
+  🟣 🆕 Support for [CarrotonMan](https://github.com/CarrotonMan)'s [Balatro Dark Mode](https://github.com/CarrotonMan/balatrodarkmode)<br>
+  <sup>↳ New palettes will appear when the mod is installed and active</sup>
 
 ## Installation
 1. Make a copy of the original "balatro.exe" and rename it "balatro_unmodded.exe";<br>
