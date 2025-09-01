@@ -1,6 +1,6 @@
 -- Note for developers --
 -- The reason why this code is so heavily commented is because it's supposed to be read by people who want to try making a mod real quick and have zero coding knowledge. The comments are supposed to teach them how each part works, with the best of my knowledge.
--- Check out Rare K's "Balatro Modding 101, How to Install & Make Mods! 2025 Edition!" https://www.youtube.com/watch?app=desktop&v=n5pBgrOFHoA to get some extra help.
+-- Check out Rare K's "Balatro Modding 101, How to Install & Make Mods! 2025 Edition!" https://www.youtube.com/watch?v=n5pBgrOFHoA to get some extra help.
 
 -- This will show the mod's icon in the "Mods" menu. The key MUST be "modicon" otherwise the icon won't load
 SMODS.Atlas({ key = "modicon", path = "spyrocrash_icon.png", px = 32, py = 32 })
@@ -328,3 +328,4 @@ SMODS.DeckSkin {
  suit = "Spades",
  palettes = palette_spades
 }
+
