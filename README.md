@@ -12,7 +12,8 @@
   🟣 High contrast suits (face cards keep the low contrast colors, while the suits are high contrast)<br>
   🟣 Choose between Elora or Bianca as the Queen of Diamonds<br>
   🟣 Custom colors and aces, named "N. Sane" (for Crash Bandicoot) and "Reignited" (for Spyro the Dragon)<br>
-  🟣 Support for English and Italian languages (so far)
+  🟣 Support for English and Italian languages (so far)<br>
+  🟣 🆕 Support for [CarrotonMan](https://github.com/CarrotonMan)'s [Balatro Dark Mode](https://github.com/CarrotonMan/balatrodarkmode) (skins will appear when the mod is installed and active)
 
 ## Installation
 1. Make a copy of the original "balatro.exe" and rename it "balatro_unmodded.exe";<br>
@@ -25,6 +26,7 @@
 5. Open it with a software like 7-Zip, then drag and drop the folder inside the %AppData&/Balatro/Mods folder.
 
 ## To-Do
-🔲 Find out how the heck localization files work, and implement localization for the textures menu;<br>
-  <sup>No, this isn't done yet. The solution I adopted so far is temporary.</sup><br>
-🔲 Add support for Dark Mode by making extra skins available when the mod is detected.
+☑️ Find out how the heck localization files work, and implement localization for the textures menu;<br>
+  <sup><strike>No, this isn't done yet. The solution I adopted so far is temporary.</strike></sup><br>
+  <sup>I think I'll accept it as is until someone else comes up with a better idea. I can just add new languages on request.</sup><br>
+☑️ Add support for Dark Mode by making extra skins available when the mod is detected.
