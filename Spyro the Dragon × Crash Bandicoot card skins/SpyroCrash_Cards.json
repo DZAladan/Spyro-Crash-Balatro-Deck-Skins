@@ -9,8 +9,9 @@
     "badge_colour": "ca5bc7",
     "badge_text_colour": "FFFFFF",
     "display_name": "Spyro the Dragon × Crash Bandicoot",
-    "version": "1.0",
+    "version": "1.1.0",
     "dependencies": [
         "Steamodded (>=1.0.0~ALPHA-1404b)"
     ]
+
 }
